@@ -1,0 +1,16 @@
+[
+  {
+    "product_id": "P001",
+    "brand": "GlowLab",
+    "product_name": "Vitamin C Serum",
+    "size_ml": 30,
+    "upc": "012345678901"
+  },
+  {
+    "product_id": "P002",
+    "brand": "GlowLab",
+    "product_name": "Hydrating Face Cream",
+    "size_ml": 50,
+    "upc": "012345678902"
+  }
+]

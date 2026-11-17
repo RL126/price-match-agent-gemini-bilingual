@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+outputs/
+database/*.duckdb
+data/processed/*
+!data/processed/.gitkeep
+reports/*
+!reports/.gitkeep

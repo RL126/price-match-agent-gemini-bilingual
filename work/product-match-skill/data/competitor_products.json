@@ -1,0 +1,23 @@
+[
+  {
+    "platform": "Amazon US",
+    "brand": "GlowLab",
+    "product_name": "Vitamin C Serum",
+    "size_ml": 30,
+    "asin_or_upc": ""
+  },
+  {
+    "platform": "Amazon US",
+    "brand": "GlowLab",
+    "product_name": "Vitamin C Serum",
+    "size_ml": 50,
+    "asin_or_upc": ""
+  },
+  {
+    "platform": "Walmart US",
+    "brand": "OtherBrand",
+    "product_name": "Vitamin C Serum",
+    "size_ml": 30,
+    "asin_or_upc": ""
+  }
+]

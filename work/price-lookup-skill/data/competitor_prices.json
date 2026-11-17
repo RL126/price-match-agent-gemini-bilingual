@@ -1,0 +1,41 @@
+[
+  {
+    "platform": "Amazon US",
+    "product_name": "Vitamin C Serum",
+    "brand": "GlowLab",
+    "size": "30 ml",
+    "listed_price": 19.99,
+    "discount_price": 17.99,
+    "shipping_fee": 0.0,
+    "tax_fee": 1.44,
+    "currency": "USD",
+    "collected_at": "2026-11-16",
+    "source": "simulated_csv"
+  },
+  {
+    "platform": "Walmart US",
+    "product_name": "Vitamin C Serum",
+    "brand": "GlowLab",
+    "size": "30 ml",
+    "listed_price": 20.49,
+    "discount_price": 18.49,
+    "shipping_fee": 0.0,
+    "tax_fee": 1.48,
+    "currency": "USD",
+    "collected_at": "2026-11-16",
+    "source": "simulated_csv"
+  },
+  {
+    "platform": "Amazon US",
+    "product_name": "Hydrating Face Cream",
+    "brand": "GlowLab",
+    "size": "50 ml",
+    "listed_price": 24.99,
+    "discount_price": 22.99,
+    "shipping_fee": 2.99,
+    "tax_fee": 1.84,
+    "currency": "USD",
+    "collected_at": "2026-11-16",
+    "source": "simulated_csv"
+  }
+]
