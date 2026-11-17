@@ -248,16 +248,6 @@ The Agent is instructed to use the current Streamlit analysis result. It must no
 - Tool calls and returned values can be expanded in the Agent Workbench.
 - Simulated data is clearly labeled and is never presented as live marketplace pricing.
 
-## Portfolio talking points
-
-This project demonstrates:
-
-- Product thinking: converting a pricing-operations pain point into a focused B2B MVP
-- Data analysis: normalization, product matching, landed-price comparison, and margin analysis
-- Agent engineering: Gemini function calling with deterministic local tools
-- Reliability design: current-data binding, uncertain states, calculation ownership, and traceability
-- Dashboard design: multi-page workflow, decision-oriented KPI cards, trend analysis, and exportable reports
-
 ## Current limitations
 
 - Uses simulated CSV data only
